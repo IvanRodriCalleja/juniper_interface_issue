@@ -1,0 +1,10 @@
+[package]
+name = "juniper_interface_issue"
+version = "0.0.1"
+authors = ["Ivan Rodriguez"]
+edition = "2021"
+
+[dependencies]
+actix-web = "4.3.1"
+actix-web-lab = "0.19.1"
+juniper = "0.15.11"
